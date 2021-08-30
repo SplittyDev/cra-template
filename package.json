@@ -1,5 +1,6 @@
 {
-  "name": "cra-template",
+  "name": "@splittydev/cra-template",
+  "author": "Marco Quinten <splittydev@gmail.com>",
   "version": "1.0.0",
   "keywords": [
     "react",
