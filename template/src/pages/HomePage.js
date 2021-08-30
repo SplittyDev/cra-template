@@ -5,8 +5,8 @@ import Page from 'components/Page'
 const HomePage = ({ className }) => {
   return (
     <Page injectClassName={className}>
-      <p>You can find the routing setup at `src/App.js`.</p>
-      <p>Pages are in `src/pages`, components are in `src/components`.</p>
+      <p>You can find the routing setup at <code>src/App.js</code>.</p>
+      <p>Pages are in <code>src/pages</code>, components are in <code>src/components</code>.</p>
     </Page>
   )
 }

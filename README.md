@@ -17,7 +17,9 @@
   import MyComponent from 'components/MyComponent'
   import MyPage from 'pages/MyPage'
   ```
-- This template provides a basic `.editorconfig` file
+- Provides a basic `.editorconfig` file
+- Includes a basic routing skeleton in `src/App.js`
+- Includes a default `Page` component for consistent page styling
 
 ## Project Structure
 
