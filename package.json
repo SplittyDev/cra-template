@@ -4,20 +4,20 @@
   "keywords": [
     "react",
     "create-react-app",
+    "cra-template",
     "template"
   ],
-  "description": "The base template for Create React App.",
+  "description": "SplittyDev's Create React App Template.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/facebook/create-react-app.git",
-    "directory": "packages/cra-template"
+    "url": "https://github.com/SplittyDev/cra-template.git"
   },
   "license": "MIT",
   "engines": {
     "node": ">=14"
   },
   "bugs": {
-    "url": "https://github.com/facebook/create-react-app/issues"
+    "url": "https://github.com/SplittyDev/cra-template/issues"
   },
   "files": [
     "template",
